@@ -1,0 +1,10 @@
+{
+  "name": "my-telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot that uses the OpenAI API to generate responses",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0",
+    "openai": "^3.0.0"
+  }
+}
